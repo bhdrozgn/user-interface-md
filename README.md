@@ -40,7 +40,7 @@ The users of this software must be really careful when creating new users. If th
 
 ## System Features and Requirements
 ### Functional Requirements
-Software sends and retrieves information from a database. The software must be connected to a server via the database so user list always keep updated for everyone in the company.
+Software sends and retrieves information from a database. The software must be connected to a server via the database so user list always keep updated for everyone in the company.  
 The table retrieves the users table from the database.
 New user button enables the text boxes to be filled.
 Save user button generates a SQL query that inserts a new row to users table based on the information written in the text boxes. After saving, text boxes will be greyed out.
