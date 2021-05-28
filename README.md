@@ -50,15 +50,15 @@ The software must be easy to maintain and use.
 ## UI Components
 ### Left Side
 #### Buttons
-New User: Makes the textboxes in the right to be writable.
+***New User:*** Makes the textboxes in the right to be writable.
 #### Checkboxes
-Hide Disabled User: Hides the users from the Users Table with the Enabled value as false when checked.
+***Hide Disabled User:*** Hides the users from the Users Table with the Enabled value as false when checked.
 #### Tables
-Users Table: Shows information about Users table from the database.
+***Users Table:*** Shows information about Users table from the database.
 ### Right Side
 #### Buttons
-Save User: Inserts the user to the database with the information written in the textboxes.
+***Save User:*** Inserts the user to the database with the information written in the textboxes.
 #### Textboxes
-Username, Display Name, Phone, Email: User information to be filled by the software user.
+***Username, Display Name, Phone, Email:*** User information to be filled by the software user.
 #### Checkboxes
-Enabled: When checked, it saves the user with the Enabled value as true.
+***Enabled:*** When checked, it saves the user with the Enabled value as true.
