@@ -1,8 +1,8 @@
 # User Management Interface
 <ol>
-<li>[Introduction](https://github.com/bhdrozgn/user-interface-md#introduction)
+<li>Introduction
   <ol>
-    <li>Purpose</li>
+    <li>[Purpose](https://github.com/bhdrozgn/user-interface-md#introduction)</li>
     <li>Indented Audience</li>
     <li>Indented Use</li>
     <li>Scope</li>
