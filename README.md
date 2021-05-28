@@ -41,7 +41,7 @@ Software sends and retrieves information from a database. The software must be c
 The table retrieves the users table from the database.
 New user button enables the text boxes to be filled.
 Save user button generates a SQL query that inserts a new row to users table based on the information written in the text boxes.
-Hide disabled users checkbox hides the users from the table with the Enabled value false.
+Hide disabled users checkbox hides the users from the table with the Enabled value as false.
 Table can be sorted via clicking the column names.
 ### Nonfunctional Requirements
 The user creation must be reliable and show that user successfully created.
@@ -50,15 +50,15 @@ The software must be easy to maintain and use.
 ## UI Components
 ### Left Side
 #### Buttons
-New User
+New User: Makes the textboxes in the right to be writable.
 #### Checkboxes
-Hide Disabled User
+Hide Disabled User: Hides the users from the Users Table with the Enabled value as false when checked.
 #### Tables
-Users Table
+Users Table: Shows information about Users table from the database.
 ### Right Side
 #### Buttons
-Save User
+Save User: Inserts the user to the database with the information written in the textboxes.
 #### Textboxes
-Username, Display Name, Phone, Email
+Username, Display Name, Phone, Email: User information to be filled by the software user.
 #### Checkboxes
-Enabled
+Enabled: When checked, it saves the user with the Enabled value as true.
