@@ -2,7 +2,7 @@
 <ol>
 <li>Introduction
   <ol>
-    <li>[Purpose](https://github.com/bhdrozgn/user-interface-md#introduction)</li>
+    [<li>Purpose</li>](https://github.com/bhdrozgn/user-interface-md#introduction)
     <li>Indented Audience</li>
     <li>Indented Use</li>
     <li>Scope</li>
